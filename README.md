@@ -8,7 +8,7 @@
 
 <br/>
 
-Full stack developer with a focus on developer tooling and component systems. I build VS Code extensions, Storybook component libraries, and MDM integrations across browser UIs, cross-platform mobile, and low-level systems code.
+Full stack developer with a focus on developer tooling and component systems. I build VS Code extensions, Storybook component libraries, and MDM, a markdown management CLI built for supporting agentic coding workflows.
 
 <br/>
 
@@ -18,7 +18,7 @@ Full stack developer with a focus on developer tooling and component systems. I 
 |:---|:---|
 | **VS Code Extensions** | Editor tooling that sharpens daily developer workflows |
 | **Component Systems** | Production-grade UI libraries built and documented with Storybook |
-| **MDM & Enterprise** | Device management integrations, automation, and scripting |
+| **MDM** | Markdown management CLI for supporting agentic coding tools |
 
 <br/>
 
