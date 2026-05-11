@@ -8,7 +8,7 @@
 
 <br/>
 
-Full stack developer with a focus on developer tooling and component systems. I build VS Code extensions, Storybook component libraries, and MDM integrations — work that spans browser UIs, cross-platform mobile, and low-level systems code.
+Full stack developer with a focus on developer tooling and component systems. I build VS Code extensions, Storybook component libraries, and MDM integrations across browser UIs, cross-platform mobile, and low-level systems code.
 
 <br/>
 
