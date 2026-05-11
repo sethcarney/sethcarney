@@ -24,9 +24,9 @@
 
 I'm a full stack developer from **Vermont, USA** with a passion for building tools that make other developers' lives easier.
 
-- **VS Code Extensions** — shipping editor tooling that improves day-to-day workflows
-- **Storybook** — building production-grade component libraries and design systems
-- **MDM Platforms** — enterprise device management integrations and automation
+- **VS Code Extensions:** shipping editor tooling that improves day-to-day workflows
+- **Storybook:** building production-grade component libraries and design systems
+- **MDM Platforms:** enterprise device management integrations and automation
 - Fluent across the stack: from low-level C/C++ to cloud-deployed web apps
 - Always looking for the next interesting engineering problem to solve
 
@@ -55,6 +55,8 @@ I'm a full stack developer from **Vermont, USA** with a passion for building too
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -97,6 +99,7 @@ I'm a full stack developer from **Vermont, USA** with a passion for building too
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
@@ -108,7 +111,7 @@ I'm a full stack developer from **Vermont, USA** with a passion for building too
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sethcarney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sethcarney&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=sethcarney&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
